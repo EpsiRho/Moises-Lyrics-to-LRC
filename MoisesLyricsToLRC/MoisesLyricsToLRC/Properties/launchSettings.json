@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MoisesLyricsToLRC": {
+      "commandName": "Project",
+      "commandLineArgs": "-perLine -jsonPath C:\\Users\\jhset\\Desktop\\lyrics.json"
+    }
+  }
+}
